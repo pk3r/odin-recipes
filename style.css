@@ -13,6 +13,11 @@ html {
     background-color: #89ABE3FF;
 }
 
+.mainimage {
+    height:auto;
+    width: 900px;
+}
+
 img {
     height: auto;
     width: 400px;
@@ -22,5 +27,14 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.listcolor {
+    color:#FCF6F5FF;
+}
+
+.mainlist {
+    text-align: center;
+    list-style-type: none;
 }
 
