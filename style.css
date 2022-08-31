@@ -1,0 +1,20 @@
+* {
+ background-color: rgb(109, 109, 109);
+}
+
+.header-title {
+ color: black;
+ font-family: 'Roboto', sans-serif;
+ font-size: 70px;
+ text-align: center;
+}
+
+div {
+    text-align: center;
+    font-size: 24px;;
+}
+
+.recipe-links {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
