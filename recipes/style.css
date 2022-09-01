@@ -1,0 +1,31 @@
+* {
+    background-color: rgb(109, 109, 109);
+    font-family: 'Roboto', sans-serif;
+   }
+
+.header-title {
+    text-align: center;
+    font-size: 5em;
+    color: whitesmoke;
+}
+
+.main-image {
+    width: 400px;
+    height: auto;
+}
+
+.img-container {
+    position: relative;
+    left: 38%;
+}
+
+.main-desc,
+.main-ingre,
+.main-lists {
+    font-size: 30px;
+    color: whitesmoke
+}
+
+.main-text {
+    font-size: 20px;
+}
