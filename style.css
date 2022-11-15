@@ -18,3 +18,8 @@ div {
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
 }
+
+.odin-image {
+    max-width: 75%;
+    height: auto;
+}
